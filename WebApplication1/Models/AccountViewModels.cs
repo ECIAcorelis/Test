@@ -8,7 +8,7 @@ namespace WebApplication1.Models
         [Required]
         [Display(Name = "Email")]
         public string Email { get; set; }
-        testc test
+
     }
 
     public class ExternalLoginListViewModel
